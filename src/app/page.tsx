@@ -70,7 +70,7 @@ export default function Page() {
       <header className="mb-6">
         <h1 className="text-3xl font-bold mb-1 text-gray-900">Trendify YT Shorts Intelligence</h1>
         <p className="text-gray-700 text-sm">
-          Browse refined ad templates directly from Supabase — auto-refreshed daily.
+          Refined Trending Shorts — Auto-Refreshed Daily.
         </p>
       </header>
 
